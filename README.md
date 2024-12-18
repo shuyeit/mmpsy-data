@@ -90,7 +90,6 @@ Here is an example of user data:
 ```json
 {
         "user_id": "user_1",
-        "platform": "dg",
         "phq-label": {
             "score": 7,
             "level": "Mild"
